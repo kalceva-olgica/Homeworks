@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-1-Inheritance", "Task-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-2-Inheritancee", "Task-2-Inheritancee\Task-2-Inheritancee.csproj", "{475B9959-E62E-4575-8259-E5680352D77E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-queue", "Homework-queue\Homework-queue.csproj", "{6BF559E5-0B1F-4C3C-AAD5-62FB94F67D0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{475B9959-E62E-4575-8259-E5680352D77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{475B9959-E62E-4575-8259-E5680352D77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{475B9959-E62E-4575-8259-E5680352D77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF559E5-0B1F-4C3C-AAD5-62FB94F67D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF559E5-0B1F-4C3C-AAD5-62FB94F67D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF559E5-0B1F-4C3C-AAD5-62FB94F67D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF559E5-0B1F-4C3C-AAD5-62FB94F67D0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
